@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived software record and, when available, the associated journal article."
+title: "Association Between Routine Generative AI Use and Acceptance of Medical AI in Japan"
+type: software
+authors:
+  - family-names: "Mitsuhashi"
+    given-names: "Toshiharu"
+    orcid: "https://orcid.org/0000-0001-9940-0570"
+    affiliation: "Center for Innovative Clinical Medicine, Medical Development Field, Okayama University"
+abstract: >-
+  Analysis code and shared materials for a cross-sectional web survey
+  examining the association between routine generative AI use and
+  acceptance of medical AI across five clinical application scenarios
+  in Japan.
+repository-code: "https://github.com/sankyoh/gai-use-medical-ai-acceptance-japan"
+url: "https://github.com/sankyoh/gai-use-medical-ai-acceptance-japan"
+license: "MIT"
+keywords:
+  - "generative AI"
+  - "medical AI"
+  - "technology acceptance"
+  - "cross-sectional survey"
+  - "Japan"
