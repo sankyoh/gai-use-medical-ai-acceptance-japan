@@ -1,4 +1,5 @@
 <!-- README.md -->
+[![DOI](https://zenodo.org/badge/1197045092.svg)](https://doi.org/10.5281/zenodo.19353977)
 # Association Between Routine Generative AI Use and Acceptance of Medical AI in Japan
 
 This repository contains the analysis code and shared documentation for the study:
