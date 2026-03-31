@@ -1,0 +1,7 @@
+/local_only/
+*.log
+*.smcl
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
