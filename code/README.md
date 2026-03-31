@@ -93,4 +93,4 @@ Recommended checks before execution:
 
 ## Reproducibility note
 
-The public repository is intended to function as an archived reproducibility package. If the code is updated after peer review or manuscript revision, the archived release should be versioned accordingly so that the repository state remains aligned with the cited Zenodo version DOI.
+This repository is maintained as a versioned reproducibility package for the archived analyses.
