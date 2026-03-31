@@ -123,7 +123,7 @@ Mitsuhashi T. Analysis code and shared materials for: Association Between Routin
 
 ## License
 
-The `LICENSE` file applies to **code in this repository** unless otherwise stated.
+The code in this repository is released under the MIT License. See `LICENSE` for details.
 
 **Important:** The code license does **not automatically apply** to shared data, questionnaire text, or third-party materials. If `data_shared/` is released publicly, its reuse conditions should be stated explicitly in the repository metadata and, if needed, in a separate data-specific license or terms-of-use statement.
 
